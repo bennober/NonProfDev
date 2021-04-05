@@ -19,6 +19,9 @@ export default function App() {
         Benjamin Nober, Chris Song, Jacob Wat, Linus Okoth, Mason Brachmann,
         Tiger Nie, Zaddeen Benaissa
       </Text>
+      <Text h4 style={styles.h4_text}>
+        Copyright 2021 (c)
+      </Text>
       <StatusBar style="auto" />
     </View>
   )
