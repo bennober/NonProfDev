@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <h1>NonProvDev</h1>
-      <h3>A simple, intuitive platform to connect non-profits with developers</h3>
+      <h3>A simple, intuitive platform to connect non-profit organizations with passionate web developers</h3>
       <StatusBar style="auto" />
     </View>
   );
