@@ -8,6 +8,7 @@ export default function App() {
       <h1>NonProvDev</h1>
       <h3>A simple, intuitive platform to connect non-profit organizations with passionate web developers</h3>
       <h4>Created by the CS 394 Red Team</h4>
+      <h5>Benjamin Nober, Chris Song, Jacob Wat, Linus Okoth, Mason Brachmann, Tiger Nie, Zaddeen Benaissa</h5>
       <StatusBar style="auto" />
     </View>
   );
